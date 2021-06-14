@@ -1,1 +1,0 @@
-# sgurkirpal.github.io
