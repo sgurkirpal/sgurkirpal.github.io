@@ -239,8 +239,22 @@ body {
 }
 
 @media only screen and (max-width:780px) {
+    .navbar {
+        margin-left: 5%;
+    }
+    .navbar-toggler {
+        margin-right: 5%;
+    }
     #back-wood {
         height: 1200px !important;
+    }
+    .page-header {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    #my-frame {
+        max-width: 90%;
+        height: auto;
     }
     #experience .card {
         margin-left: 0%;
