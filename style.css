@@ -73,6 +73,11 @@ body {
     height: auto;
 }
 
+#wave_hand {
+    width: 6%;
+    vertical-align: baseline;
+}
+
 #about_me {
     margin-left: 15%;
     margin-right: 15%;
@@ -255,6 +260,9 @@ body {
     #my-frame {
         max-width: 90%;
         height: auto;
+    }
+    #wave_hand {
+        width: 10%;
     }
     #experience .card {
         margin-left: 0%;
